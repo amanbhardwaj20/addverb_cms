@@ -1,0 +1,1 @@
+{ "_id" : {"$oid":"5f89d926ffa0fe34f4e4c08a"}, "privileges" : { "read" : false, "create" : false, "update" : false, "delete" : false }, "isAdmin" : true, "request" : true, "name" : "teacher", "email" : "teacher@gmail.com", "password" : "$2a$10$B6Z.R8Yb5iD/EWxGU.eywuAVSNopaPjx3o6Rzw5xBiGMUHh5so6Jq", "role" : "Teacher", "created" : "October 16, 2020", "__v" : 0 }
